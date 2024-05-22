@@ -30,3 +30,11 @@ Jira besitzt ein Board, womit man seine Kanban oder Scrum Prozesse abbilden kann
 ![Jira repository](./docs/atlassian/jira-build.png)
 
 Jira kann mit einem Repository verknüpft werden, um die Commits und Pull Requests zu sehen.
+
+![Jira repository embedded](./docs/atlassian/jira-embed.png)
+
+Den Jira Board Tasks können branches und commits zugeordnet werden.
+
+### Confluence
+
+![Confluence](./docs/atlassian/confluence.png)
