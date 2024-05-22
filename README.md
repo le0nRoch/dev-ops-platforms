@@ -18,3 +18,15 @@
 | [Tencent Cloud](https://intl.cloud.tencent.com/)                   | Ja      | Ja                       | Ja    | Ja                   | Ja       | Ja                |
 | [Atlassian](https://www.atlassian.com/software/jira)               | Ja      | Ja (Bitbucket)           | Ja    | Ja                   | ?        | Ja (AWS)          |
 | [GitLab](https://about.gitlab.com/)                                | Nein    | Ja                       | Ja    | Ja                   | Ja       | Ja (Nur Frontend) |
+
+## Atlasian unter der Lupe
+
+### Jira
+
+![Jira Board](./docs/atlassian/jira-board.png)
+
+Jira besitzt ein Board, womit man seine Kanban oder Scrum Prozesse abbilden kann.
+
+![Jira repository](./docs/atlassian/jira-build.png)
+
+Jira kann mit einem Repository verknüpft werden, um die Commits und Pull Requests zu sehen.
