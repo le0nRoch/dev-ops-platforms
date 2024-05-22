@@ -35,6 +35,10 @@ Jira kann mit einem Repository verknüpft werden, um die Commits und Pull Reques
 
 Den Jira Board Tasks können branches und commits zugeordnet werden.
 
+![Jira Board Merged](./docs/atlassian/jira-merged.png)
+
+Der branch kann via Jira gemerged werden.
+
 ### Confluence
 
 ![Confluence](./docs/atlassian/confluence.png)
